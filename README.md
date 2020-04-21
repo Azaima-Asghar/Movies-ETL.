@@ -17,4 +17,5 @@ Britta a number of amazing prime team has been asked with creating the dataset f
     * Ratings data from Kaggle website.
 * Open-source distribution software Anaconda and the Jupiter notebook.
 * Pandas, NumPy, json, re, and sqlalchemy libraries for python.
+* Visual Studio Code.
     
